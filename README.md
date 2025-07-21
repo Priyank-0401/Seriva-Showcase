@@ -251,9 +251,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Creator**: [Your Name]
+**Creator**: [Priyank Pahwa]
 - 🌐 **Portfolio**: [https://priyank-0401.github.io/priyankpahwa/](https://priyank-0401.github.io/priyankpahwa/)
-- 💼 **LinkedIn**: [https://linkedin.com/in/priyankpahwa41](Priyank Pahwa)
+- 💼 **LinkedIn**: [Priyank Pahwa](https://linkedin.com/in/priyankpahwa41)
 - 📧 **Email**: [priyankpahwa41@gmail.com]
 
 **Project Links**:
