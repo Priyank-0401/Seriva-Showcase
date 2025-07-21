@@ -253,9 +253,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Creator**: [Your Name]
 - 🌐 **Portfolio**: [https://priyank-0401.github.io/priyankpahwa/](https://priyank-0401.github.io/priyankpahwa/)
-- 💼 **LinkedIn**: [https://linkedin.com/in/your-profile](https://linkedin.com/in/priyankpahwa41)
+- 💼 **LinkedIn**: [https://linkedin.com/in/priyankpahwa41](Priyank Pahwa)
 - 📧 **Email**: [priyankpahwa41@gmail.com]
-- 🐦 **Twitter**: [@your-handle]
 
 **Project Links**:
 - 🚀 **Live Demo**: [seriva-app.vercel.app](https://seriva.vercel.app)
