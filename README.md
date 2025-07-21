@@ -252,12 +252,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Creator**: [Priyank Pahwa]
-- 🌐 **Portfolio**: [https://priyank-0401.github.io/priyankpahwa/](https://priyank-0401.github.io/priyankpahwa/)
+- 🌐 **Portfolio**: [Priyank Pahwa](https://priyank-0401.github.io/priyankpahwa/)
 - 💼 **LinkedIn**: [Priyank Pahwa](https://linkedin.com/in/priyankpahwa41)
 - 📧 **Email**: [priyankpahwa41@gmail.com]
 
 **Project Links**:
-- 🚀 **Live Demo**: [seriva-app.vercel.app](https://seriva.vercel.app)
+- 🚀 **Live Demo**: [Seriva](https://seriva.vercel.app)
 <!-- - 📱 **Landing Page**: [seriva.ai](https://seriva.ai) *(Coming Soon)* -->
 
 ---
