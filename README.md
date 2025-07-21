@@ -51,7 +51,7 @@ Seriva provides 24/7 personalized therapeutic support through:
 
 ## 🚀 Live Demo
 
-**[🌐 Try Seriva Live](https://seriva-app.vercel.app)**
+**[🌐 Try Seriva Live](https://seriva.vercel.app)**
 
 > *Experience the future of AI-powered mental health support*
 
@@ -252,14 +252,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Creator**: [Your Name]
-- 🌐 **Portfolio**: [your-portfolio-website.com]
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile]
-- 📧 **Email**: [your.email@domain.com]
+- 🌐 **Portfolio**: [https://priyank-0401.github.io/priyankpahwa/](https://priyank-0401.github.io/priyankpahwa/)
+- 💼 **LinkedIn**: [https://linkedin.com/in/your-profile](https://linkedin.com/in/priyankpahwa41)
+- 📧 **Email**: [priyankpahwa41@gmail.com]
 - 🐦 **Twitter**: [@your-handle]
 
 **Project Links**:
-- 🚀 **Live Demo**: [seriva-app.vercel.app](https://seriva-app.vercel.app)
-- 📱 **Landing Page**: [seriva.ai](https://seriva.ai) *(Coming Soon)*
+- 🚀 **Live Demo**: [seriva-app.vercel.app](https://seriva.vercel.app)
+<!-- - 📱 **Landing Page**: [seriva.ai](https://seriva.ai) *(Coming Soon)* -->
 
 ---
 
