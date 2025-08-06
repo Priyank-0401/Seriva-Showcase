@@ -61,8 +61,6 @@
 > **The brain behind the avatar.** Seriva is a compassionate, empathetic therapeutic assistant, engineered to be warm, caring, and non-judgmental with evidence-based approaches.
 
 ![Groq](https://img.shields.io/badge/Groq-Llama_3.1_70B-FF6B35?style=flat-square&logo=groq)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?style=flat-square&logo=openai)
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude-FF6B35?style=flat-square&logo=anthropic)
 
 </td>
 <td width="50%">
@@ -177,7 +175,6 @@ Seriva provides 24/7 personalized therapeutic support through:
 
 **AI & Cloud**  
 ![Groq](https://img.shields.io/badge/Groq-Llama_3.1-FF6B35?style=for-the-badge&logo=groq&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -191,13 +188,6 @@ Seriva provides 24/7 personalized therapeutic support through:
 Seriva's core innovation is the **Emotion-Sync Pipeline** - a sophisticated system that combines multiple AI models and data sources to create truly empathetic responses:
 
 
-
-
-### **Multi-LLM Orchestration**
-- **Primary**: Groq (Llama 3.1 70B) for fast, conversational responses
-- **Fallback**: OpenAI GPT-4 for complex reasoning and analysis
-- **Ethical Layer**: Anthropic Claude for safety and appropriateness checks
-- **Smart Routing**: Automatic provider switching based on response quality and availability
 
 ### **Real-time Data Processing**
 - **Streaming Responses**: WebSocket connections for real-time AI conversations
