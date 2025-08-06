@@ -220,11 +220,7 @@ Seriva's core innovation is the **Emotion-Sync Pipeline** - a sophisticated syst
 
 ### ✍️ AI-Powered Journaling
 ![Journaling](assets/screenshots/03_journaling.png)  
-*Intelligent writing prompts and reflection analysis*
-
-### 📈 Wellness Insights
-![Mood Tracker](assets/screenshots/04_mood_tracker.png)
-*Predictive analytics and personalized recommendations*
+*SUpports text, audio and video journaling*
 
 </div>
 
